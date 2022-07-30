@@ -1,0 +1,14 @@
+div{
+    width: 100%;
+    background-color: lightgrey;
+    color: white;
+}
+a{
+    margin-left:20px;
+    
+}
+/* #content::after {
+    display:inline-flex;
+    content:"";
+    clear:both;
+  } */
